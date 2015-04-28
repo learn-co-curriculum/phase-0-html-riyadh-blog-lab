@@ -21,4 +21,4 @@ Use CSS in the `style.css` file in the `css` folder to change different aspects 
 * change the background image to a color
 * change the background color to a gradient
 
-You can also try modifying these styles on-the-fly by modifying them with the [developer tools](https://www.youtube.com/watch?v=q3mWDijP_8w) of your [browser](http://www.sitepoint.com/edit-source-files-in-chrome/)
+You can also try modifying these styles on-the-fly by modifying them with the [developer tools](https://www.youtube.com/watch?v=q3mWDijP_8w) of your [browser](http://www.sitepoint.com/edit-source-files-in-chrome/).
