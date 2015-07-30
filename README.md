@@ -1,7 +1,4 @@
----
-tags: typography, images, links
-language: html, css
----
+
 
 # Code Challenge 1 - Riyadh Blog
 
