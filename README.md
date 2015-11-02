@@ -1,8 +1,6 @@
+# Code Challenge - Riyadh Blog
 
-
-# Code Challenge 1 - Riyadh Blog
-
-This challenge asks that you work in teams to create the website page shown in the provided screenshot image.
+This challenge asks that you create the website page shown in the provided screenshot image.
 
 ## Tasks
 
