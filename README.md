@@ -1,5 +1,3 @@
-
-
 # Code Challenge 1 - Riyadh Blog
 
 This challenge asks you to create the website page shown in the provided MOCKUP.jpg image.
