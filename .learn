@@ -1,9 +1,7 @@
-languages:
-  - html
-  - css
 tags:
   - typography
   - images
   - links
-tests:
- - green_onion
+languages:
+  - html
+  - css
