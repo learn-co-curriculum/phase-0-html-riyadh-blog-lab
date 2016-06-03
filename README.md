@@ -7,6 +7,7 @@ Create the website page shown in the provided screenshot image.
 1. Fork this repository
 2. cd into repository folder
 3. In the index.html file use the comments in the code to place the content from SOURCE.md to the proper locations. The image file MOCKUP.jpg can be used as a reference to build the index.html page as it appears.
+4. (HINT: If you'd like to take a look at your handiwork, you can preview this in your browser by right-clicking the file in the file tree, and selecting "Open in Browser" .)
 
 ## Bonus
 Use CSS in the `style.css` file in the `css` folder to change different aspects about your page such as:
