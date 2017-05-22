@@ -7,7 +7,7 @@ Create the website page shown in the provided screenshot image.
 1. Fork this repository. 
 2. `cd` into repository folder.
 3. In the `index.html` file use the comments in the code to place the content from `SOURCE.md` in the proper locations. The image file `MOCKUP.jpg` can be used as a reference to build the `index.html` page as it appears.
-4. HINT: If you'd like to take a look at your handiwork, you can preview this in your browser by following [these steps](https://help.learn.co/hc/en-us/articles/230234088-Viewing-HTML-pages-in-the-Learn-IDE).
+4. HINT: If you'd like to take a look at your handiwork, you can preview this in your browser by following [these steps](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide).
 
 ## Bonus
 Use CSS in the `style.css` file in the `css` folder to change different aspects about your page such as:
