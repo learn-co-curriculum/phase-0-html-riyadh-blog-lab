@@ -2,12 +2,20 @@
 
 Create the website page shown in the provided screenshot image.
 
-## Tasks
+## Tasks for LearnIDE Environment Users
 
-1. Fork this repository. 
-2. `cd` into repository folder.
-3. In the `index.html` file use the comments in the code to place the content from `SOURCE.md` in the proper locations. The image file `MOCKUP.jpg` can be used as a reference to build the `index.html` page as it appears.
-4. HINT: If you'd like to take a look at your handiwork, you can preview this in your browser by following [these steps](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide).
+1. Click the "OPEN IDE" button
+
+## Tasks for Local Environment Users
+
+1. Fork this repository.
+2. Clone your fork locally.
+3. `cd` into the local repo you just cloned.
+
+## Process 
+
+1. In the `index.html` file use the comments in the code to place the content from `SOURCE.md` in the proper locations. The image file `MOCKUP.jpg` can be used as a reference to build the `index.html` page as it appears.
+2. HINT: If you'd like to take a look at your handiwork, you can preview this in your browser by following [these steps](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide).
 
 ## Bonus
 Use CSS in the `style.css` file in the `css` folder to change different aspects about your page such as:
