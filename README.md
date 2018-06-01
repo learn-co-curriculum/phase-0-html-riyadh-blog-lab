@@ -1,23 +1,29 @@
 # Riyadh Blog
 
-Create the website page shown in the provided screenshot image.
+## Problem Statement 
+As web developers, we are often asked to work from a mockup of a potential webpage, generally referred to as either a `mockup` or `comp`. In this lab, you'll be asked to to a mockup image, source text and images, and create an HTML structure that mirrors the mockup image. 
 
-## Tasks for LearnIDE Environment Users
+## Objectives 
+1. Create an HTML structure for an existing mockup image and source text
+
+## Create an HTML structure for an existing mockup image and source text 
+
+### Tasks for LearnIDE Environment Users
 
 1. Click the "OPEN IDE" button
 
-## Tasks for Local Environment Users
+### Tasks for Local Environment Users
 
 1. Fork this repository.
 2. Clone your fork locally.
 3. `cd` into the local repo you just cloned.
 
-## Process 
+### Process 
 
 1. In the `index.html` file use the comments in the code to place the content from `SOURCE.md` in the proper locations. The image file [`MOCKUP.jpg`](https://s3.amazonaws.com/learn-verified/RIYADH-MOCKUP.jpg) can be used as a reference to build the `index.html` page as it appears.
 HINT: If you'd like to take a look at your handiwork as you go, and you're working in the Learn IDE, you can preview the `index.html` file in your browser by following [these steps](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide).
 
-## Bonus
+### Bonus
 Use CSS in the `style.css` file in the `css` folder to change different aspects about your page such as:
 * font color
 * font size
