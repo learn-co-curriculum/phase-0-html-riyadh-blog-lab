@@ -46,6 +46,19 @@ about your page such as:
 You can also try modifying these styles on-the-fly by modifying them with the
 [developer tools] of your [browser].
 
+You might think: "BUT I DON'T KNOW CSS (_very well_ or _at all_). Developers
+*constantly* encounter this feeling. Since developers are constantly learning,
+we try to keep the commands as simple as possible. You might know more than you
+think! What happens if you change `red` to `green`? What do you expect? How
+would you validate your guess? Developers usually call this process "trying
+stuff" or "messing around" or "playing with stuff." While all those phrases
+sound like a joke, what they mean to say is that they're using the Scientific
+Method to validate their guesses into building a model.
+
+It's possibly the most powerful learning technique possible. Toddlers and
+puppies are amazing at it!
+
+
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-riyadh-blog' title='Code Challenge 1 - Riyadh Blog'>Code Challenge 1 - Riyadh Blog</a> on Learn.co and start learning to code for free.</p>
 
 [these steps]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide
