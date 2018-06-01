@@ -4,8 +4,8 @@
 
 Web developers are often asked to work from a mockup of a potential webpage,
 generally referred to as either a `mockup` or `comp`. In this lab, you'll be
-asked to use a mockup image, source text and images, and create an HTML structure
-that mirrors the mockup image.
+asked to use a mockup image, source text and images, and create an HTML
+structure that mirrors the mockup image.
 
 ## Objectives
 
@@ -23,10 +23,10 @@ that mirrors the mockup image.
 
 ### Process
 
-In the `index.html` file use the comments in the code to place the content from
-`SOURCE.md` in the proper locations. The image file
-[`MOCKUP.jpg`](https://s3.amazonaws.com/learn-verified/RIYADH-MOCKUP.jpg) can be
-used as a reference to build the `index.html` page as it appears.
+In the `index.html` file, use the comments in the code to place the content
+from `SOURCE.md` in the proper locations. The image file
+[`MOCKUP.jpg`](https://s3.amazonaws.com/learn-verified/RIYADH-MOCKUP.jpg) can
+be used as a reference to build the `index.html` page as it appears.
 
 HINT: If you'd like to take a look at your handiwork as you go, and you're
 working in the Learn IDE, you can preview the `index.html` file in your browser
