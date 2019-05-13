@@ -1,15 +1,17 @@
 # Riyadh Blog
 
-## Problem Statement
+## Learning Goals
+
+1. Create an HTML structure for an existing mockup
+
+## Introduction
 
 Web developers are often asked to work from a mockup of a potential webpage,
 generally referred to as either a `mockup` or `comp`. In this lab, you'll be
 asked to use a mockup image, source text and images, and create an HTML
 structure that mirrors the mockup image.
 
-## Objectives
-
-1. Create an HTML structure for an existing mockup image and source text
+## Create an HTML Structure for an Existing Mockup
 
 ### Tasks for LearnIDE Environment Users
 
