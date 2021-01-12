@@ -11,17 +11,13 @@ generally referred to as either a `mockup` or `comp`. In this lab, you'll be
 asked to use a mockup image, source text and images, and create an HTML
 structure that mirrors the mockup image.
 
+## Getting Started
+
+Fork and clone this lesson into your local environment. Navigate into its directory
+in the terminal, then run `code .` to open the files in Visual Studio Code. Finally,
+run `bundle` to install the lab's dependencies.
+
 ## Create an HTML Structure for an Existing Mockup
-
-### Tasks for LearnIDE Environment Users
-
-1. Click the "OPEN IDE" button
-
-### Tasks for Local Environment Users
-
-1. Fork this repository.
-2. Clone your fork locally.
-3. `cd` into the local repo you just cloned.
 
 ### Process
 
@@ -30,9 +26,8 @@ from `SOURCE.md` in the proper locations. The image file
 [`MOCKUP.jpg`](https://s3.amazonaws.com/learn-verified/RIYADH-MOCKUP.jpg) can
 be used as a reference to build the `index.html` page as it appears.
 
-HINT: If you'd like to take a look at your handiwork as you go, and you're
-working in the Learn IDE, you can preview the `index.html` file in your browser
-by following [these steps].
+Open `index.html` in a separate browser tab to see your progress as you work. Run `rspec`
+as you go to see test results.
 
 ### Bonus
 
@@ -59,9 +54,6 @@ Method to validate their guesses into building a model.
 
 It's possibly the most powerful learning technique possible. Toddlers and
 puppies are amazing at it!
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-riyadh-blog' title='Code Challenge 1 - Riyadh Blog'>Code Challenge 1 - Riyadh Blog</a> on Learn.co and start learning to code for free.</p>
 
 [these steps]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide
 [developer tools]: https://www.youtube.com/watch?v=q3mWDijP_8w
