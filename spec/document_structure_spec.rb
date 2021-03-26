@@ -40,14 +40,14 @@ RSpec.describe "Well-Formed HTML Document" do
 
         expect(content_section.children.any? {|ch| ch.name == "img"}).to be == true, "No 'img' tags found"
         images = content_section.children.select {|ch| ch.name == "img"}
-        expect(images.length).to be >= 3, "Make sure to include all three 'p' tags"
+        expect(images.length).to be >= 3, "Make sure to include all three 'img' tags"
         expect(images[0].attributes["src"].value).to eq("./images/transportation/transit.jpg")
         expect(images[1].attributes["src"].value).to eq("./images/garden.jpg")
         expect(images[2].attributes["src"].value).to eq("./images/transportation/camels-in-truck.jpg")
 
         expect(content_section.children.any? {|ch| ch.name == "a"}).to be == true, "No 'a' tags found"
         links = content_section.children.select {|ch| ch.name == "a"}
-        expect(links.length).to be >= 2, "Make sure to include all three 'p' tags"
+        expect(links.length).to be >= 2, "Make sure to include both 'a' tags"
         expect(links[0].attributes["href"].value).to eq("http://www.lonelyplanet.com/saudi-arabia/riyadh")
         expect(links[1].attributes["href"].value).to eq("http://en.wikipedia.org/wiki/Riyadh")
       
