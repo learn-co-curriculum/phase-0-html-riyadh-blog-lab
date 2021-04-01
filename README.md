@@ -43,7 +43,7 @@ about your page such as:
 You can also try modifying these styles on-the-fly by modifying them with the
 [developer tools] of your [browser].
 
-You might think: "BUT I DON'T KNOW CSS (_very well_ or _at all_). Developers
+You might think: "BUT I DON'T KNOW CSS" (_very well_ or _at all_). Developers
 *constantly* encounter this feeling. Since developers are constantly learning,
 we try to keep the commands as simple as possible. You might know more than you
 think! What happens if you change `red` to `green`? What do you expect? How
