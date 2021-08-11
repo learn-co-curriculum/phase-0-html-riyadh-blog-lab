@@ -71,6 +71,5 @@ git push
 If you visit your fork on GitHub, you should now see that _you've_ made the most
 recent commit, and your solution will be present in the files.
 
-[these steps]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide
 [developer tools]: https://www.youtube.com/watch?v=q3mWDijP_8w
 [browser]: http://www.sitepoint.com/edit-source-files-in-chrome/
