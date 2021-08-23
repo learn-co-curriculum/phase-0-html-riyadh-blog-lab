@@ -34,17 +34,17 @@ as you go to see test results.
 Use CSS in the `style.css` file in the `css` folder to change different aspects
 about your page such as:
 
-* font color
-* font size
-* font family
-* change the background image to a color
-* change the background color to a gradient
+- font color
+- font size
+- font family
+- change the background image to a color
+- change the background color to a gradient
 
 You can also try modifying these styles on-the-fly by modifying them with the
 [developer tools] of your [browser].
 
 You might think: "BUT I DON'T KNOW CSS" (_very well_ or _at all_). Developers
-*constantly* encounter this feeling. Since developers are constantly learning,
+_constantly_ encounter this feeling. Since developers are constantly learning,
 we try to keep the commands as simple as possible. You might know more than you
 think! What happens if you change `red` to `green`? What do you expect? How
 would you validate your guess? Developers usually call this process "trying
@@ -62,10 +62,10 @@ machine. To preserve work on your GitHub fork, you will need to stage the
 changes you've made, commit them, and push the commit up to GitHub. Use
 the following commands to do this:
 
-```sh
-git add .
-git commit -m "Completed assignment"
-git push
+```console
+$ git add .
+$ git commit -m "Completed assignment"
+$ git push
 ```
 
 If you visit your fork on GitHub, you should now see that _you've_ made the most
