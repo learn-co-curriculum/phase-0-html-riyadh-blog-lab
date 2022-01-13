@@ -45,8 +45,7 @@ describe("index.html", () => {
 
     it("has three <p> elements with the correct content", () => {
       const wrapper = document.querySelector("#content");
-      const hint1 = "Wrong number of <p> tag(s) found";
-      expect(content, hint1).to.have.descendants("p").and.have.length(3);
+      expect(content).to.have.descendants("p");
 
       const [firstP, secondP, thirdP] = wrapper.querySelectorAll("p");
       expect(firstP).to.contain.text("Once a mudbrick waystation");
@@ -55,6 +54,7 @@ describe("index.html", () => {
         "The city is divided into 15 municipal districts"
       );
     });
+
 
     it("has three <img> elements with the correct attributes", () => {
       const wrapper = document.querySelector("#content");
