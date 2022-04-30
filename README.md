@@ -1,8 +1,8 @@
-# Riyadh Blog
+# BONUS: Riyadh Blog
 
 ## Learning Goals
 
-1. Create an HTML structure for an existing mockup
+- Create an HTML structure for an existing mockup
 
 ## Introduction
 
@@ -13,21 +13,21 @@ structure that mirrors the mockup image.
 
 ## Getting Started
 
-Fork and clone this lesson into your local environment. Navigate into its directory
-in the terminal, then run `code .` to open the files in Visual Studio Code. Finally,
-run `bundle` to install the lab's dependencies.
+Fork and clone this lesson into your local environment. Navigate into its
+directory in the terminal, then run `code .` to open the files in Visual Studio
+Code.
 
 ## Create an HTML Structure for an Existing Mockup
 
 ### Process
 
-In the `index.html` file, use the comments in the code to place the content
-from `SOURCE.md` in the proper locations. The image file
-[`MOCKUP.jpg`](https://s3.amazonaws.com/learn-verified/RIYADH-MOCKUP.jpg) can
-be used as a reference to build the `index.html` page as it appears.
+In the `index.html` file, use the comments in the code to place the content from
+`SOURCE.md` in the proper locations. The image file
+[`MOCKUP.jpg`](https://s3.amazonaws.com/learn-verified/RIYADH-MOCKUP.jpg) can be
+used as a reference to build the `index.html` page as it appears.
 
-Open `index.html` in a separate browser tab to see your progress as you work. Run `rspec`
-as you go to see test results.
+Open `index.html` in a separate browser tab to see your progress as you work.
+Run `learn test` as you go to see test results.
 
 ### Bonus
 
@@ -54,22 +54,3 @@ Method to validate their guesses into building a model.
 
 It's possibly the most powerful learning technique possible. Toddlers and
 puppies are amazing at it!
-
-## Saving Your Work Remotely
-
-Currently, the work you've done on this assignment is only on your local
-machine. To preserve work on your GitHub fork, you will need to stage the
-changes you've made, commit them, and push the commit up to GitHub. Use
-the following commands to do this:
-
-```console
-$ git add .
-$ git commit -m "Completed assignment"
-$ git push
-```
-
-If you visit your fork on GitHub, you should now see that _you've_ made the most
-recent commit, and your solution will be present in the files.
-
-[developer tools]: https://www.youtube.com/watch?v=q3mWDijP_8w
-[browser]: http://www.sitepoint.com/edit-source-files-in-chrome/
