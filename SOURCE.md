@@ -57,7 +57,7 @@ SMALLER SUB HEAD
 LINK 1
 
 `Lonely Planet`
-`http://www.lonelyplanet.com/saudi-arabia/riyadh`
+`images/transportation/camels-in-truck.jpg`
 
 LINK 2
 
