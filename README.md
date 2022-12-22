@@ -13,7 +13,7 @@ structure that mirrors the mockup image.
 
 ## Getting Started
 
-Fork and clone this lesson into your local environment. Navigate into its
+**Fork and clone** this lesson into your local environment. Navigate into its
 directory in the terminal, then run `code .` to open the files in Visual Studio
 Code.
 
@@ -27,7 +27,7 @@ In the `index.html` file, use the comments in the code to place the content from
 used as a reference to build the `index.html` page as it appears.
 
 Open `index.html` in a separate browser tab to see your progress as you work.
-Run `learn test` as you go to see test results.
+Run `npm test` as you go to see test results.
 
 ### Bonus
 
